@@ -1,6 +1,6 @@
 ### 20190518 shinjuku-mokumoku
-小松正幸
-本日の成果
+@size[1.1em]小松正幸
+@size[1.1em]本日の成果
 * GitHubのCUIで、初めてフォーク、プルリクを行えました。
 * KPTという言葉、考え方を知りました。
 * gitpitchの使い方を学びました。
