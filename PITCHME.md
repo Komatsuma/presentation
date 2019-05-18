@@ -27,7 +27,7 @@
    }
   ]
  },
- "options": "responsive": "true", "scale":{"ticks":"min":0, "max":100}
+ "options": { "responsive": "true", "scale":{"ticks":{"min":0, "max":100}}}
 }
 
 -->
