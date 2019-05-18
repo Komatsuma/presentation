@@ -27,8 +27,9 @@
    }
   ]
  },
- "options": { "responsive": "true" }
+ "options": "responsive": "true", scale:{ticks:min:0, max:100}
 }
+
 -->
 </canvas>
 
